@@ -3,7 +3,7 @@
 ### Assignment
 
 ### Bank Account Transaction Program
-This program simulates a bank account transaction and calculates the final balances of the accounts involved. It is implemented in JavaScript and can be run using Node.js or the Code Runner extension in Visual Studio Code.
+This program simulates a bank account transaction and calculates the final balances of the accounts involved. It is implemented in JavaScript 
 
 ### Global Variables
 I have defined the following global variables to store the initial balances of the bank account and customer accounts:
@@ -25,4 +25,4 @@ For the actual bank account transaction, I have created the transfer() function.
 ### Function: testTransfer()
 To test the transfer() function with a sample transaction, I have included the testTransfer() function. It serves as a test case and showcases the functionality of the program. The testTransfer() function calls the initialize() function to reset the account balances to their default values and then calls the transfer() function with the specified sample values. I can modify or extend this function to test different scenarios as needed.
 
-## Thanks for taking your time and forreviewing my code, Have a good day.
+## Thanks for taking your time and for reviewing my code, Have a good day.
